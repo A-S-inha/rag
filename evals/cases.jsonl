@@ -1,0 +1,5 @@
+{"id":"leave","question":"How many days of paid annual leave do full-time employees receive?","evidence":["24 days"],"answer_contains":["24"],"slice":"text"}
+{"id":"carryover","history":[["How does annual leave work?","Full-time employees receive 24 days per year."]],"question":"How many of those can I carry over, and when do they expire?","evidence":["5 unused days","March 31"],"answer_contains":["5","March 31"],"slice":"follow-up"}
+{"id":"equipment","question":"What is the home office equipment reimbursement cap?","evidence":["$500"],"answer_contains":["500"],"slice":"text"}
+{"id":"table-pro","question":"What is the Pro support response time and monthly price?","evidence":["Plan = Pro; Response time = 4 hours; Monthly price = $30"],"answer_contains":["4 hours","30"],"slice":"table"}
+{"id":"unknown","question":"What is the dental insurance deductible?","evidence":[],"answer_contains":[],"unanswerable":true,"slice":"unanswerable"}

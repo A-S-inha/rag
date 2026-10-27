@@ -1,0 +1,8 @@
+langchain-core>=1,<2
+langchain-openai>=1,<2
+langchain-text-splitters>=1,<2
+langchain-chroma>=1,<2
+beautifulsoup4>=4.12,<5
+lxml>=5,<7
+python-dotenv>=1,<2
+pytest>=8,<10
